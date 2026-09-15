@@ -1,0 +1,14 @@
+{
+    "name": "aquagold/kasinet-voucher",
+    "description": "MikroTik hotspot voucher payment system with admin panel",
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^11.0",
+        "evilfreelancer/routeros-api-php": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
