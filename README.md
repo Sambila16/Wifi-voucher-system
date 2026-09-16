@@ -109,3 +109,8 @@ make sure the `admin` middleware alias is registered and
 - `.env` (DB credentials, encryption key, future gateway API keys)
   must never be committed — it's already in `.gitignore` in a standard
   Laravel install.
+
+----
+LOGIN BY DEFAULT ADMIN PAGE
+admin; you@Example.com
+password;yourpassword
