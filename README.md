@@ -112,5 +112,6 @@ make sure the `admin` middleware alias is registered and
 
 ----
 LOGIN BY DEFAULT ADMIN PAGE
-admin; you@Example.com
-password;yourpassword
+
+-admin; you@Example.com
+-password;yourpassword
